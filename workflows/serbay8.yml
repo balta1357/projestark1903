@@ -27,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -U setuptools wheel Kekik httpx parsel requests
           
-      - name: sentv.py Çalıştır
+      - name: serbay8.py Çalıştır
         run: python serbay8.py
 
 
